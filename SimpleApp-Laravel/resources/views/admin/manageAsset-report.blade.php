@@ -454,7 +454,7 @@
 
               <div class="modal-body ml-2 mr-2">
                 @if ($asset)
-                <form action="/manageAsset-report/{{ $asset->asset_no }}" method="POST" class="form-horizontal row-fluid">
+                <form action="/editAsset/{{ $asset->asset_no }}" method="POST" class="form-horizontal row-fluid">
                   @csrf
 
                 <div class="row">

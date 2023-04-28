@@ -345,7 +345,7 @@
                             <!-- /.card-body -->
                             <div class="modal-footer" style="margin-bottom: -15px;">
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                <button  name="submit" class="btn btn-primary" >Submit</button>
+                                <button name="submit" class="btn btn-primary" >Submit</button>
                             </div><!-- /.end modal-footer content-->
                             </form><!-- /.end form new content-->
                         </div>
